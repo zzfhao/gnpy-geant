@@ -1,0 +1,11 @@
+# Output parameters. The values of OSNR are evaluated in the -3 dB channel band
+
+osnr_lin_central_channel_db = 35.108969112
+
+osnr_nl_central_channel_db = 32.5067009238
+
+osnr_lin_db = [ 35.10896911]
+
+osnr_nl_db = [ 32.50670092]
+
+spectrum = {'laser_position': [0, 0, 0, 1, 0, 0, 0, 0], 'signals': [{'b_ch': 0.032, 'roll_off': 0.15, 'p_ch': 0.0010000002302769566, 'p_nli': 2.5308240134836312e-07, 'p_ase': 3.0839206058547942e-07}]}

@@ -22,8 +22,13 @@ spectrum = {
     'signals': [{
         'b_ch': 0.032,
         'roll_off': 0.15,
-        'p_ch': 1E-3,
+        'p_ch': 0.001995262315,
         'p_nli': 0,
         'p_ase': 0
         } for _ in range(n_ch)]
 }
+'''def setpower (position, value):
+    spectrum["signals"][position]["p_ch"] = value
+    return
+setpower(0,0.0015848931925)'''
+#print (spectrum["signals"])
