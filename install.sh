@@ -14,6 +14,8 @@ git branch -r
 
 git checkout -b staging staging/phase-1
 
+sudo apt-get update
+
 sudo apt-get install python3-pip
 
 pip3 install numpy
