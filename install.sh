@@ -2,6 +2,8 @@
 
 git clone https://github.com/Telecominfraproject/oopt-gnpy.git
 
+cd oopt-gnpy
+
 git remote add staging https://github.com/Telecominfraproject/oopt-gnpy.git
 
 git remote
