@@ -1,5 +1,7 @@
 #!/bin/bash
 
+git clone https://github.com/Telecominfraproject/oopt-gnpy.git
+
 git remote add staging https://github.com/Telecominfraproject/oopt-gnpy.git
 
 git remote
